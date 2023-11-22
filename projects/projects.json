@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Weather Application",
+      "desc": "Stay informed about the weather with up-to-date forecasts and real-time conditions for any location.",
+      "image": "WeatherApp",
+      "category": "Web",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Calculator Application",
+      "desc": "Perform mathematical calculations with ease using a calculator application.",
+      "image": "CalculatorApp",
+      "category": "Web",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Movie-Recommendation App",
+      "desc": "Discover Your Next Favorite Movie with Personalized Recommendations",
+      "image": "MovieRecommendationApp",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Responsive-Portfolio",
+      "desc": "Demonstrates skills, experience, and accomplishments.",
+      "image": "Responsive-Portfolio",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    }
+  ]
+  
